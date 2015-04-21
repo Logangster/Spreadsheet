@@ -1,0 +1,15 @@
+C:\Users\Logan\Documents\CS3500Projects\PS4\Resources\bin\Debug\Resources.dll.config
+C:\Users\Logan\Documents\CS3500Projects\PS4\Resources\bin\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS4\Resources\bin\Debug\Resources.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS4\Resources\obj\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS4\Resources\obj\Debug\Resources.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS5\Resources\bin\Debug\Resources.dll.config
+C:\Users\Logan\Documents\CS3500Projects\PS5\Resources\bin\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS5\Resources\bin\Debug\Resources.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS5\Resources\obj\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS5\Resources\obj\Debug\Resources.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS6\Resources\bin\Debug\Resources.dll.config
+C:\Users\Logan\Documents\CS3500Projects\PS6\Resources\bin\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS6\Resources\bin\Debug\Resources.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS6\Resources\obj\Debug\Resources.dll
+C:\Users\Logan\Documents\CS3500Projects\PS6\Resources\obj\Debug\Resources.pdb

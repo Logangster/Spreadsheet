@@ -1,0 +1,4 @@
+C:\Users\Logan\Documents\CS3500Projects\PS6\SpreadsheetGUITests\bin\Debug\SpreadsheetGUITests.dll
+C:\Users\Logan\Documents\CS3500Projects\PS6\SpreadsheetGUITests\bin\Debug\SpreadsheetGUITests.pdb
+C:\Users\Logan\Documents\CS3500Projects\PS6\SpreadsheetGUITests\obj\Debug\SpreadsheetGUITests.dll
+C:\Users\Logan\Documents\CS3500Projects\PS6\SpreadsheetGUITests\obj\Debug\SpreadsheetGUITests.pdb
